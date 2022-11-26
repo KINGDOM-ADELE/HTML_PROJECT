@@ -5,4 +5,5 @@ must use CSS in each page;
 the CSS to set font size, 
 the CSS to specify current page in the nav bar and 
 thirdly in the training page, the CSS to collapse the 
-default table double border line
+default table double border line.
+This project is a work of art with just html
